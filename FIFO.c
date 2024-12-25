@@ -1,4 +1,4 @@
-// FIFO :
+// FIFO:
 #include<stdio.h>
  int f=0,n=0,ref[20]={0},sp=0,frames[10]={0},mem[20][20]={0},arr[20],fa=0;
  int search(int p)
